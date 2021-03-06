@@ -2,4 +2,4 @@
 
 # Lab 3
 
-![Question1] (path/Lab3_1.JPG)
+![Question1] (Lab3_1.JPG)
