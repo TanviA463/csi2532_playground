@@ -2,4 +2,6 @@
 
 # Lab 3
 
-![Question1] (images/Lab3_1.JPG)
+![Question1] (/Lab3_1.JPG)
+
+
