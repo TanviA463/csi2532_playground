@@ -46,5 +46,5 @@ VALUES
 ('2021-04-13', '2021-04-15', 50, 2, '4683 Howe Street', 'John Smith', 'john@example.com'),
 ('2021-05-05', '2021-05-05', 10000, 1, '6926 Robson Street', 'Jane Doe', 'jane@example.com'),
 ('2021-09-01', '2021-09-01', 10, 4, '1950 Granville Street', 'Bob Jones', 'bob@example.com'),
-('2021-04-04', '2021-04-04', 15, 5, '9502 Pender Street', "Mary Tudor', 'mary@example.com'),
-('2021-05-19', '2021-05-24', 23, 1, '5205 Commercial Avenue', Henry Eight', 'henry@example.com');
+('2021-04-04', '2021-04-04', 15, 5, '9502 Pender Street', 'Mary Tudor', 'mary@example.com'),
+('2021-05-19', '2021-05-24', 23, 1, '5205 Commercial Avenue', 'Henry Eight', 'henry@example.com');
